@@ -102,8 +102,8 @@ button{-webkit-tap-highlight-color:transparent}
 
 /* ===== รูปพื้นหลังการ์ดสถานที่: แก้ path ตรงนี้ได้เลย ===== */
 .location-card{--art:none}
-.location-card[data-location="ห้องชุมนุม"]{--art:url("images/room-assembly.jpg")}
-.location-card[data-location="ห้องเก็บของด้านล่าง"]{--art:url("images/room-storage.jpg")}
+.location-card[data-location="ห้องชุมนุม"]{--art:url("room-assembly.jpg")}
+.location-card[data-location="ห้องเก็บของด้านล่าง"]{--art:url("room-storage.jpg")}
 
 /* Section */
 .toolbar{display:flex;justify-content:space-between;align-items:center;gap:14px;margin:0 2px 16px}
